@@ -23,7 +23,7 @@ This repository contains a Jupyter notebook (`SandBox NoteBook.ipynb`) for explo
   - [<b>Refund</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#refund-of-a-successful-debit-partial-or-full)
   - [<b>Notification</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki#notification-to-the-payer-after-a-successful-debit-request)
 - [<b>Pay</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#pay)
-- [<b>Account Validation](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#fetch-customer-details-kyc)
+- [<b>Account Validation</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#fetch-customer-details-kyc)
   - [<b>KYC Basic</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#get-basic-info-kyc-function)
   - [<b>KYC with Consent</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#get-detailed-kyc-function-with-consent)
 - [<b>Distribute</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki/#distribute)
