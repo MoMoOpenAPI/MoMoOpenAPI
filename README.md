@@ -47,7 +47,7 @@ This Jupyter notebook is the main component of the repository. It includes:
 To use this sandbox notebook:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ddamula/MoMoOpenAPI_SandBox.git
+   git clone https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox.git
    ```
 2. Ensure you have Jupyter Notebook installed.
 3. Open the `SandBox NoteBook.ipynb` file in Jupyter Notebook.
