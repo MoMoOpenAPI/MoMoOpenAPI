@@ -18,7 +18,7 @@
 This repository contains a Jupyter notebook (`SandBox NoteBook.ipynb`) for exploring and interacting with the MoMo Open API in a sandbox environment.
 
 ### MoMo Open APIs Capabilities
-- [<b>Authorization</b>](https://github.com/Ddamula/MoMoOpenAPI_SandBox/blob/5c2309c3fe3eb0e7be1d341baeca8eacad6ca89f//#authorization)
+- [<b>Authorization</b>](https://github.com/MoMoOpenAPI/MoMoOpenAPI_SandBox/wiki#authorization)
 - [<b>Get Paid</b>](https://github.com/Ddamula/MoMoOpenAPI_SandBox/blob/5c2309c3fe3eb0e7be1d341baeca8eacad6ca89f//#get-paid)
   - [<b>Refund</b>](https://github.com/Ddamula/MoMoOpenAPI_SandBox/blob/5c2309c3fe3eb0e7be1d341baeca8eacad6ca89f//#refund-of-a-successful-debit-partial-or-full)
   - [<b>Notification</b>](https://github.com/Ddamula/MoMoOpenAPI_SandBox/blob/5c2309c3fe3eb0e7be1d341baeca8eacad6ca89f//#notification-to-the-payer-after-a-successful-debit-request)
